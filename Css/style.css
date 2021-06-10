@@ -1,0 +1,43 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background-image: url('../images/Estes.jpeg');
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+#container {
+	background: black;
+	width: 450px;
+	color: white;
+	padding: 15;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+
+h1{
+	font-family: fantasy;
+	font-size: 60px;
+}
+
+h2{
+	font-size: 40px;
+}
+
+p{
+	font-size: 20px;
+}
